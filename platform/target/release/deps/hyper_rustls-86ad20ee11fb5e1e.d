@@ -1,0 +1,11 @@
+/home/me/dev/mainrs/arachnids/platform/target/release/deps/hyper_rustls-86ad20ee11fb5e1e.rmeta: /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/lib.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/config.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/connector.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/connector/builder.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/stream.rs
+
+/home/me/dev/mainrs/arachnids/platform/target/release/deps/libhyper_rustls-86ad20ee11fb5e1e.rlib: /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/lib.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/config.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/connector.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/connector/builder.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/stream.rs
+
+/home/me/dev/mainrs/arachnids/platform/target/release/deps/hyper_rustls-86ad20ee11fb5e1e.d: /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/lib.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/config.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/connector.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/connector/builder.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/stream.rs
+
+/home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/lib.rs:
+/home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/config.rs:
+/home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/connector.rs:
+/home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/connector/builder.rs:
+/home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/stream.rs:

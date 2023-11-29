@@ -1,0 +1,2 @@
+cargo:rustc-link-lib=dylib=app
+cargo:rustc-link-search=.
